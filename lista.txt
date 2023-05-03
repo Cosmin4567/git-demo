@@ -5,3 +5,4 @@ ardei
 rosii
 banane 
 mere
+capsuni
